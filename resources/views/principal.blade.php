@@ -12,7 +12,7 @@
 <body>
 
     <a href="formulario-registrar" class="btn btn-primary">Registrar</a>
-    <a href="persona" class="btn btn-primary">Listadox</a>
+    <a href="persona" class="btn btn-primary">Listado</a>
     <a href="" class="btn btn-primary"></a>
     <a href="" class="btn btn-primary"></a>
 
