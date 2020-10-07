@@ -13,7 +13,7 @@
 
     <a href="formulario-registrar" class="btn btn-primary">Registrar</a>
     <a href="persona" class="btn btn-primary">Listado</a>
-    <a href="" class="btn btn-primary"></a>
+    <a href="" class="btn btn-primary">Editado</a>
     <a href="" class="btn btn-primary"></a>
 
     <script src="js/bootstrap.min.js"></script>
